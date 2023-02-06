@@ -1,6 +1,5 @@
 # slack-bot
 Quick Easy Slack Chat Creator
-The program we created, named "slack-bot.py," is a basic script that demonstrates how to use the Slack API to interact with a Slack workspace. Here's how it works:
 
 The script starts by importing the necessary libraries, such as Flask, Requests, and Subprocess. These libraries are used to handle HTTP requests, sending API requests to Slack, and running shell commands, respectively.
 
